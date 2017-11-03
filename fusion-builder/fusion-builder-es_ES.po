@@ -17,19 +17,19 @@ msgstr ""
 
 #: fusion-builder.php:377
 msgid "Go to the Avada plugin installation page"
-msgstr ""
+msgstr "Vaya a la página de instalación del complemento de Avada"
 
 #: fusion-builder.php:590
 msgid "Fusion Builder Settings"
-msgstr ""
+msgstr "Configuraciones de Fusion Builder"
 
 #: fusion-builder.php:1332 fusion-builder.php:1336
 msgid "Use Default Editor"
-msgstr ""
+msgstr "Usar el editor predeterminado"
 
 #: fusion-builder.php:1332 fusion-builder.php:1336
 msgid "Use Fusion Builder"
-msgstr ""
+msgstr "Usar Fusion Builder"
 
 #. Plugin Name of the plugin/theme
 msgid "Fusion Builder"
@@ -38,7 +38,7 @@ msgstr "Fusion Builder"
 #: fusion-builder.php:2009 inc/fusion-builder-admin.php:44
 #: inc/fusion-builder-admin.php:198
 msgid "Settings"
-msgstr ""
+msgstr "Configuraciones"
 
 #: fusion-builder.php:2047 fusion-builder.php:2048
 msgid "Fusion Patcher"
